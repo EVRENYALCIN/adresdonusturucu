@@ -1,0 +1,11 @@
+C:\Users\TEST\Source\Repos\C_Sharp_Exercises\30-MetinCevirici\bin\Debug\30-MetinCevirici.exe.config
+C:\Users\TEST\Source\Repos\C_Sharp_Exercises\30-MetinCevirici\bin\Debug\30-MetinCevirici.exe
+C:\Users\TEST\Source\Repos\C_Sharp_Exercises\30-MetinCevirici\bin\Debug\30-MetinCevirici.pdb
+C:\Users\TEST\Source\Repos\C_Sharp_Exercises\30-MetinCevirici\obj\Debug\30-MetinCevirici.csproj.AssemblyReference.cache
+C:\Users\TEST\Source\Repos\C_Sharp_Exercises\30-MetinCevirici\obj\Debug\30-MetinCevirici.csproj.SuggestedBindingRedirects.cache
+C:\Users\TEST\Source\Repos\C_Sharp_Exercises\30-MetinCevirici\obj\Debug\_30_MetinCevirici.Form1.resources
+C:\Users\TEST\Source\Repos\C_Sharp_Exercises\30-MetinCevirici\obj\Debug\_30_MetinCevirici.Properties.Resources.resources
+C:\Users\TEST\Source\Repos\C_Sharp_Exercises\30-MetinCevirici\obj\Debug\30-MetinCevirici.csproj.GenerateResource.cache
+C:\Users\TEST\Source\Repos\C_Sharp_Exercises\30-MetinCevirici\obj\Debug\30-MetinCevirici.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Source\Repos\C_Sharp_Exercises\30-MetinCevirici\obj\Debug\30-MetinCevirici.exe
+C:\Users\TEST\Source\Repos\C_Sharp_Exercises\30-MetinCevirici\obj\Debug\30-MetinCevirici.pdb

@@ -1,0 +1,11 @@
+C:\Users\TEST\Desktop\AdresCevirici\bin\Debug\30-MetinCevirici.exe.config
+C:\Users\TEST\Desktop\AdresCevirici\bin\Debug\30-MetinCevirici.exe
+C:\Users\TEST\Desktop\AdresCevirici\bin\Debug\30-MetinCevirici.pdb
+C:\Users\TEST\Desktop\AdresCevirici\obj\Debug\AdresDonusturucu.csproj.AssemblyReference.cache
+C:\Users\TEST\Desktop\AdresCevirici\obj\Debug\AdresDonusturucu.csproj.SuggestedBindingRedirects.cache
+C:\Users\TEST\Desktop\AdresCevirici\obj\Debug\_30_MetinCevirici.AdresDonusturucu.resources
+C:\Users\TEST\Desktop\AdresCevirici\obj\Debug\_30_MetinCevirici.Properties.Resources.resources
+C:\Users\TEST\Desktop\AdresCevirici\obj\Debug\AdresDonusturucu.csproj.GenerateResource.cache
+C:\Users\TEST\Desktop\AdresCevirici\obj\Debug\AdresDonusturucu.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Desktop\AdresCevirici\obj\Debug\30-MetinCevirici.exe
+C:\Users\TEST\Desktop\AdresCevirici\obj\Debug\30-MetinCevirici.pdb
